@@ -6,6 +6,7 @@ An advanced AI-powered medical imaging application that detects and segments bra
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B.svg)](https://streamlit.io/)
 [![YOLO](https://img.shields.io/badge/YOLO-11n-00FFFF.svg)](https://github.com/ultralytics/ultralytics)
 
+🔗 Try it live: [brain-tumor-detector-007.streamlit.app](https://brain-tumor-detector-007.streamlit.app/)
 ---
 
 ## 🎯 Overview
